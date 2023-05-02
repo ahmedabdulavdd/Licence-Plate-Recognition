@@ -1,4 +1,4 @@
-<H1 align="center">Automatic Number Plate Detection and Recognition using YOLOv8</H1>
+<H1 align="center">Licence Plate Detection and Recognition using YOLOv8 and EasyOCR</H1>
 
 
 ## Steps to run Code
